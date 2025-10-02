@@ -22,7 +22,7 @@ It contains three interactive dashboards — **Production, Product, and Sales An
 - Machine downtime: **395 hours**, with Machine 2 causing **42%** of delays  
 - Throughput gap of ~20% vs capacity  
 
-![Production Dashboard](https://github.com/your-username/business-analytics-dashboards/blob/main/images/production.png?raw=true)  
+![Production Dashboard](production_analysis.png)  
 
 ---
 
