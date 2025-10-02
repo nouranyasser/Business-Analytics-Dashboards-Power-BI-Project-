@@ -31,7 +31,7 @@ It contains three interactive dashboards — **Production, Product, and Sales An
 - Sales vs Cost of Goods Sold (COGS)  
 - Category dependency risk identified  
 
-![Product Dashboard](https://github.com/your-username/business-analytics-dashboards/blob/main/images/product.png?raw=true)  
+![Product Dashboard](product_analysis.png)  
 
 ---
 
@@ -41,4 +41,10 @@ It contains three interactive dashboards — **Production, Product, and Sales An
 - YoY Growth: **+71%**  
 - Rising Returns: from **$0.62M → $1.48M** (2015–2017)  
 
-![Sales Dashboard](https://github.com/your-username/business-analytics-dashboards/blob/main/images/sales.png?raw=true)  
+![Sales Dashboard](sales_analysis.png)  
+![Sales Dashboard](Sales_analysis2.png)  
+![Drillthrough](Drillthrough.png)  
+![tooltib_return_reason](tooltib_return_reason.png)  
+![tooltib_subcategory](tooltib_subcategory.png)  
+
+
